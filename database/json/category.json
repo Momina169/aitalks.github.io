@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "name" : "Artificail Intelligence"
+    },
+    {
+        "id" : 2,
+        "name" : "Data Science"
+    },
+    {
+        "id" : 3,
+        "name" : "IoT"
+    },
+    {
+        "id" : 4,
+        "name" : "Computer Science"
+    }
+]
